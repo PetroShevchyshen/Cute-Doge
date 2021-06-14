@@ -7,7 +7,7 @@
 body{
     margin: 0;
     padding: 0;
-    background-image: url(/icon/background.jpg);
+    background-image: url(./icon/background.jpg);
     background-repeat: no-repeat;
     background-position:center center;
     background-attachment: fixed;
